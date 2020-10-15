@@ -9,6 +9,6 @@ import com.generation.atividade10.model.Usuario;
 
 public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
 	public Optional<Usuario> findByUsuario(String usuario);
-	public List<Usuario> findAllByNomeContainingIgnoreCase (String nome);
-	public Optional<Usuario> findByUsuarioAndSenha(String usuario, String senha);
+	//public List<Usuario> findAllByNomeContainingIgnoreCase (String nome);
+	//public Optional<Usuario> findByUsuarioAndSenha(String usuario, String senha);
 }
