@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.generation.atividade10.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.738 s - in com.generation.atividade10.ApplicationTests
